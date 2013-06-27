@@ -2,4 +2,4 @@
 
 ## Upcoming Meetups
 
-[6th July]('130706.md')
+[6th July](130706.md)
